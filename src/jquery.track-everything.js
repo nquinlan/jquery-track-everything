@@ -55,7 +55,7 @@
 					ga('send', gauEventInfo);
 				} catch (e) {
 					if(settings.options.debug){
-						console.log("Google Analytics be installed and initiated for Track Everything to work");
+						console.log("Google Analytics must be installed and initiated for Track Everything to work");
 					}
 				}
 
@@ -65,7 +65,7 @@
 					_gaq.push(eventInfo);
 				} catch (e) {
 					if(settings.options.debug){
-						console.log("Google Analytics be installed and initiated for Track Everything to work");
+						console.log("Google Analytics must be installed and initiated for Track Everything to work");
 					}
 				}
 
