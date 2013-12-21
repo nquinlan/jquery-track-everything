@@ -3,9 +3,10 @@
     "title": "jQuery Track Evertyhing",
     "description": "jQuery plugin  to help track Google Analytics Events.",
     "keywords": [
-        "event tracking",
+        "events",
+        "tracking",
         "analytics",
-        "google analytics"
+        "ga"
     ],
     "version": "1.0.0",
     "author": {
