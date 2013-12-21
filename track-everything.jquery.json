@@ -1,0 +1,28 @@
+{
+    "name": "track-everything",
+    "title": "jQuery Track Evertyhing",
+    "description": "jQuery plugin  to help track Google Analytics Events.",
+    "keywords": [
+        "event tracking",
+        "analytics",
+        "google analytics"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Nick Quinlan",
+        "email": "nick@nicholasquinlan.com",
+        "url": "http://nicholasquinlan.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/nquinlan/jquery-track-everything/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/nquinlan/jquery-track-everything/issues",
+    "homepage": "https://github.com/nquinlan/jquery-track-everything",
+    "docs": "https://github.com/nquinlan/jquery-track-everything",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
