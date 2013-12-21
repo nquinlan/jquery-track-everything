@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Track Everything Test Suite</title>
+
+	<!-- qunit -->
+	<link rel="stylesheet" href="vendor/qunit-theme-ninja.css" media="screen">
+
+</head>
+<body>
+	<div>
+		<h1 id="qunit-header">Track Everything Test Suite</h1>
+		<h2 id="qunit-banner"></h2>
+		<h2 id="qunit-userAgent"></h2>
+		<ol id="qunit-tests"></ol>
+		<div id="qunit-fixture"></div>
+	</div>
+
+	<!-- qunit -->
+	<script src="vendor/qunit-1.12.0.js"></script>
+
+	<!-- qunit config -->
+	<script>QUnit.config.testTimeout = 1*1000;</script>
+
+	<!-- jquery -->
+	<script src="vendor/jquery-1.10.2.min.js"></script>
+
+	<!-- script -->
+	<script src="../src/jquery.track-everything.js"></script>
+
+	<!-- tests -->
+	<script src="tests/tracking.js"></script>
+
+</body>
+</html>
