@@ -126,5 +126,12 @@ Default events follow different naming conventions based on several attributes, 
 | phone     | `href` _without `tel:`_     |
 | anchor    | `href` _without `#`_        |
 
+## Alternatives
+jQuery Track Everything not quite fit your needs? There are a few of alternatives, I recommend:
+
+- **[jQuery Google Analytics](https://github.com/JimBobSquarePants/jQuery-Google-Analytics)** by [James Sout](https://github.com/JimBobSquarePants) - _Fire traditional Google Analytics Events on Click events by using several data attributes._
+- **[Scout](http://www.benplum.com/projects/scout/) by [Ben Plum](https://github.com/benplum)** - _Fire traditional Google Analytics Events on Click events by using one data attribute._
+- **Custom Code** - If none of these do exactly what you need, it's pretty easy to write your own event tracking with jQuery's [`.on()`](http://api.jquery.com/on/) method.
+
 ## License
 jQuery Track Everything is licensed MIT. Much of the original code for jQuery Track Everything came from my work at [Ethoseo](http://ethoseo.com/) on a [WordPress Plugin](https://github.com/ethoseo/track-everything) of the same name. The original code was also MIT licensed.
