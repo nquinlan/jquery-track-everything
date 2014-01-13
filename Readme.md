@@ -5,6 +5,8 @@ The plugin requires minimal configuration as it intelligently names and tracks e
 
 However, jQuery Track Everything does not aim to do advanced tracking (e.g. event values and advanced interactions). In more advanced settings it can be used in conjunction with custom code to create deep tracking.
 
+jQuery Track Everything works with both [ga.js](https://developers.google.com/analytics/devguides/collection/gajs/) (the traditional `_gaq` interface) and [analytics.js](https://support.google.com/analytics/answer/2790010?hl=en) (Universal Analytics).
+
 ## Basic Usage
 To use jQuery Track Everything, simply include the script, and call the jQuery method `track`. The plugin will default to tracking a number of previously untracked events that occur within the selected jQuery object.
 
