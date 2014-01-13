@@ -132,7 +132,7 @@ Default events follow different naming conventions based on several attributes, 
 jQuery Track Everything not quite fit your needs? There are a few of alternatives, I recommend:
 
 - **[jQuery Google Analytics](https://github.com/JimBobSquarePants/jQuery-Google-Analytics)** by [James Sout](https://github.com/JimBobSquarePants) - _Fire traditional Google Analytics Events on Click events by using several data attributes._
-- **[Scout](http://www.benplum.com/projects/scout/) by [Ben Plum](https://github.com/benplum)** - _Fire traditional Google Analytics Events on Click events by using one data attribute._
+- **[Scout](http://www.benplum.com/projects/scout/)** by [Ben Plum](https://github.com/benplum) - _Fire traditional Google Analytics Events on Click events by using one data attribute._
 - **Custom Code** - If none of these do exactly what you need, it's pretty easy to write your own event tracking with jQuery's [`.on()`](http://api.jquery.com/on/) method.
 
 ## License
