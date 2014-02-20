@@ -1,5 +1,5 @@
 # jQuery Track Everything
-jQuery Track Everything is a jQuery plugin that makes tracking events with Google Analytics extremely easy. Not only can it be used by developers, designers, and marketers on the sites they create and manage, but it can easily be written into plugins for CMSs, like [WordPress](https://github.com/ethoseo/track-everything
+jQuery Track Everything is a jQuery plugin that makes tracking events with Google Analytics extremely easy. Not only can it be used by developers, designers, and marketers on the sites they create and manage, but it can easily be written into plugins for CMSs, like [WordPress](https://github.com/ethoseo/track-everything].
 
 [![Build Status](https://travis-ci.org/nquinlan/jquery-track-everything.png?branch=master)](https://travis-ci.org/nquinlan/jquery-track-everything)
 
